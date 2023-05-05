@@ -196,7 +196,7 @@ body{ background-color:rgb(163, 237, 167);
 }
 
 #videoModal .modal-body {
-    position: relative;
+   text-align: center;
     padding: 0px;
 }
 
